@@ -6,8 +6,6 @@ I'm a 16-year-old aspiring software developer passionate about coding challenges
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-lage&show_icons=true&theme=dark)](https://github.com/eduardo-lage)
-
 **Languages & Tools:** Python | C++ | Linux | Networking  
 **Currently Learning:** Cybersecurity | Algorithms | Data Structures  
 **Projects & Practice:** Coding exercises, security tools, automation scripts
