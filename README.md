@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Eduardo! 👋
 
-<!--
-**eduardo-lage/eduardo-lage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old aspiring software developer passionate about coding challenges, automation, and cybersecurity.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-lage&show_icons=true&theme=dark)](https://github.com/eduardo-lage)
+
+**Languages & Tools:** Python | C++ | Linux | Networking  
+**Currently Learning:** Cybersecurity | Algorithms | Data Structures  
+**Projects & Practice:** Coding exercises, security tools, automation scripts
+
+### Featured Projects
+- [Port Scanner](https://github.com/eduardo-lage/portfolio-ciberseguranca/tree/main/projetos/Port-Scanner/v1.0) – Python networking tool for exploring ports.
+
+### Goals
+- Improve Python and C++ skills by building real-world apps
+- Explore advanced cybersecurity tools and techniques
+- Participate in coding challenges to strengthen problem-solving skills
+
+### Contact
+- [Email](mailto:lage.almeidaeduardo@gmail.com)
+- LinkedIn
