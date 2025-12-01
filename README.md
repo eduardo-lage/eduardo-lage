@@ -19,5 +19,5 @@ I'm a 16-year-old aspiring software developer passionate about coding challenges
 - Participate in coding challenges to strengthen problem-solving skills
 
 ### Contact
-- [Email](mailto:lage.almeidaeduardo@gmail.com)
-- LinkedIn
+- **Email:** lage.almeidaeduardo@gmail.com
+- **LinkedIn:**
